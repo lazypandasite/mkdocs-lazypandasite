@@ -1,5 +1,5 @@
 # Welcome
 
-site under construction
+site under construction 🚧
 
-[Check out the Apink Schedule](/apink_schedule){ .md-button }
+[Check out the Apink Schedule](apink_schedule.md){ .md-button }
