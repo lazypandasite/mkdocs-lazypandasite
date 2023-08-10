@@ -59,4 +59,4 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: |
-  &copy; 2023 <a href="https://github.com/NoorElBahrain" target="_blank" rel="noopener">LazyPanda</a>
+  &copy; 2023 <a href="https://github.com/lazypandasite" target="_blank" rel="noopener">LazyPanda</a>
