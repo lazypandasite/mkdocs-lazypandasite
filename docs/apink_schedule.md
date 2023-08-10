@@ -12,14 +12,14 @@
 
     [Watch Part 1 if you missed it](https://www.youtube.com/watch?v=ryDFRT9hqus&feature=youtu.be)
 
-???+ note "Friday 08/12"
+???+ note "Saturday 08/12"
 
     ![Daejeon](assets/images/daejeon.jpg){ align=right width="300"}
     Apink @ The Daejeon Zero O'Clock Festival
 
     Location: Daejeon Metropolitan City Jungang-Ro
 
-???+ tip "Friday 08/13"
+???+ tip "Sunday 08/13"
 
     Bomi's Bithday 🎂
 
@@ -27,7 +27,7 @@
 
     Eunji's Bithday 🎂
 
-???+ note "Friday 08/26"
+???+ note "Saturday 08/26"
 
     Eunji @ 023 KT Voyage to Jarasum Festival
 
