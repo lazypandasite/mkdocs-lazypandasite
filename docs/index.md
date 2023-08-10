@@ -2,4 +2,4 @@
 
 site under construction
 
-[Check out the Apink Schedule](/docs/apink_schedule.md){ .md-button }
+[Check out the Apink Schedule](/apink_schedule){ .md-button }
