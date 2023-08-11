@@ -1,16 +1,16 @@
 # Apink Schedule
 
+!!! abstract "Apink members' YouTube upload schedule"
+
+    [Bomi](https://www.youtube.com/@bbombbombbom): Saturday's at 11AM KST
+
+    [Eunji](https://www.youtube.com/@eunji3116): No set schedule
+
+    [Namjoo](https://www.youtube.com/@kimnamjoo_official): on break
+
+    [Hayoung](https://www.youtube.com/@ohhabbang): on break
+
 ## August
-
-???+ note "Friday 08/11"
-
-    Apink on 스튜디오 상상인 (Part 2)
-
-    ⇢ Time: 6PM KST
-
-    ⇢ Location: [@sangsangin YouTube Channel](https://www.youtube.com/@sangsangin)
-
-    [Watch Part 1 if you missed it](https://www.youtube.com/watch?v=ryDFRT9hqus&feature=youtu.be)
 
 ???+ note "Saturday 08/12"
 
@@ -26,6 +26,16 @@
 ???+ tip "Friday 08/18"
 
     Eunji's Bithday 🎂
+
+???+ note "Friday 08/18"
+
+    Apink on 스튜디오 상상인 (Part 2)
+
+    ⇢ Time: 6PM KST
+
+    ⇢ Location: [@sangsangin YouTube Channel](https://www.youtube.com/@sangsangin)
+
+    [Watch Part 1 if you missed it](https://www.youtube.com/watch?v=ryDFRT9hqus&feature=youtu.be)
 
 ???+ note "Saturday 08/26"
 
