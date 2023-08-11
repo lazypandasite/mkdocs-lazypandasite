@@ -2,7 +2,7 @@
 
 !!! abstract "Apink members' YouTube upload schedule"
 
-    [Bomi](https://www.youtube.com/@bbombbombbom): Saturday's at 11AM KST
+    [Bomi](https://www.youtube.com/@bbombbombbom): Saturdays at 11AM KST
 
     [Eunji](https://www.youtube.com/@eunji3116): No set schedule
 
