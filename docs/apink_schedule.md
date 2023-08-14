@@ -27,7 +27,7 @@
 
 ???+ note "Wednesday 08/16 to Friday 08/18"
 
-    Special DJ #Namjoo on Lee Sookyoung's Love FM  (viewable radio)
+    Special DJ Namjoo on Lee Sookyoung's Love FM  (viewable radio)
 
     ⇢ Time: 9:05 to 11:00 AM KST
 
