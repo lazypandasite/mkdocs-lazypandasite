@@ -43,6 +43,7 @@ extra_css:
   - stylesheets/extra.css
 
 markdown_extensions:
+  - tables
   - admonition
   - pymdownx.details
   - pymdownx.superfences
@@ -57,6 +58,22 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
+plugins:
+  - table-reader
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - custom-skip-class-name
+      auto_caption: false
+      caption_position: bottom
 
 copyright: |
   &copy; 2023 <a href="https://github.com/lazypandasite" target="_blank" rel="noopener">LazyPanda</a>

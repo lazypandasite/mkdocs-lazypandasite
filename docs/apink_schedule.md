@@ -14,38 +14,7 @@
 
 ## August
 
-???+ note "Saturday 08/12"
-
-    ![Daejeon](assets/images/daejeon.jpg){ align=right width="300"}
-    Apink @ The Daejeon Zero O'Clock Festival
-
-    ⇢ Location: Daejeon Metropolitan City Jungang-Ro
-
-???+ tip "Sunday 08/13"
-
-    Bomi's Bithday 🎂
-
-???+ note "Wednesday 08/16 to Friday 08/18"
-
-    Special DJ Namjoo on Lee Sookyoung's Love FM  (viewable radio)
-
-    ⇢ Time: 9:05 to 11:00 AM KST
-
-    ⇢ Location: SBS Love FM
-
-???+ tip "Friday 08/18"
-
-    Eunji's Bithday 🎂
-
-???+ note "Friday 08/18"
-
-    Apink on 스튜디오 상상인 (Part 2)
-
-    ⇢ Time: 6PM KST
-
-    ⇢ Location: [@sangsangin YouTube Channel](https://www.youtube.com/@sangsangin)
-
-    [Watch Part 1 if you missed it](https://www.youtube.com/watch?v=ryDFRT9hqus&feature=youtu.be)
+### Upcoming
 
 ???+ note "Saturday 08/26"
 
@@ -54,3 +23,16 @@
     ⇢Time: 5:10 - 5:55 PM KST
 
     ⇢Location: Jarasum
+
+## September
+
+![School2023 - ZGM Concert](assets/images/ZGM.jpg){: style="height:200px;width:200px"}
+![LMAC MUSICFORALL FEST 2023](assets/images/LMCA.jpg){: style="height:200px;width:200px"}
+![Idol Radio: Live in Seoul](assets/images/idolradio.jpg){: style="height:200px;width:200px"}
+![2023 Wonder Woman Festival](assets/images/WW.jpg){: style="height:200px;width:200px"}
+
+{{ read_csv('./data.csv') }}
+
+!!! info "Note about the Wonder Woman Festival"
+
+    The exact date (23rd, 24th or both) Eunji will preform at the festival is unknown.
