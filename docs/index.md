@@ -1,6 +1,6 @@
 # Welcome
 
-site under construction 🚧
+Welcome to the Lazy Panda site 🐼
 
 [Check out the Apink Schedule](apink_schedule.md){ .md-button }
 
