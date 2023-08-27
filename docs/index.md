@@ -20,6 +20,7 @@ _not complete yet_
     * [:fontawesome-brands-instagram: @mulgokizary](https://www.instagram.com/mulgokizary)
     * [:fontawesome-brands-instagram: @wearebrico](https://www.instagram.com/wearebrico)
     * [:fontawesome-brands-twitter: @Apinkpcr](https://twitter.com/Apinkpcr)
+    * [:fontawesome-brands-youtube: @wearebrico](https://www.youtube.com/@wearebrico)
     * [Chorong on Weverse](https://weverse.io/apink/profile/6cccc6b60c90b95928b9423a5420a441)
 
 === "Bomi"
