@@ -59,3 +59,15 @@ _not complete yet_
 Chorong, Bomi, Namjoo & Hayoung are on the **Fromm** paid private artist messaging app
 [:material-android:](https://play.google.com/store/apps/details?id=com.knowmerce.fromm.fan)
 [:fontawesome-brands-app-store:](https://apps.apple.com/us/app/%ED%94%84%EB%A1%AC-frommyarti/id1641293296)
+
+---
+
+## Learn more about Apink
+
+> It is never to late to be an Apink fan!
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">[<a href="https://twitter.com/hashtag/ApinkGuide?src=hash&amp;ref_src=twsrc%5Etfw">#ApinkGuide</a>] August 2023 Update 🐼🩷<br>IT IS NEVER TOO LATE TO STAN APINK✨<br><br>🔗<a href="https://t.co/rPWjhcU9lu">https://t.co/rPWjhcU9lu</a> (pdf)<br><br>⚫️PROFILE ✨<br>⚪️DISCOGRAPHY ✨<br>⚫️SOLO ALBUMS / OSTS / DUETS ✨<a href="https://twitter.com/hashtag/CHORONG?src=hash&amp;ref_src=twsrc%5Etfw">#CHORONG</a> <a href="https://twitter.com/hashtag/BOMI?src=hash&amp;ref_src=twsrc%5Etfw">#BOMI</a> <a href="https://twitter.com/hashtag/EUNJI?src=hash&amp;ref_src=twsrc%5Etfw">#EUNJI</a> <a href="https://twitter.com/hashtag/NAMJOO?src=hash&amp;ref_src=twsrc%5Etfw">#NAMJOO</a> <a href="https://twitter.com/hashtag/HAYOUNG?src=hash&amp;ref_src=twsrc%5Etfw">#HAYOUNG</a> <a href="https://twitter.com/hashtag/APINK?src=hash&amp;ref_src=twsrc%5Etfw">#APINK</a> <a href="https://t.co/SGFyY171Iq">pic.twitter.com/SGFyY171Iq</a></p>&mdash; aivz • 핑초⁶ ✨ (@apinkxcho) <a href="https://twitter.com/apinkxcho/status/1690664499823652864?ref_src=twsrc%5Etfw">August 13, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+!!! note "Note from the author of the Apink guide above"
+
+    The PDF has updated information and links
