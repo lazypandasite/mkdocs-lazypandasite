@@ -17,6 +17,7 @@
 ## September
 
 ![LMAC MUSICFORALL FEST 2023](assets/images/LMCA.jpg){: style="height:200px;width:200px"}
+![Sancheong World Traditional Medicine & Anti-Aging Expo Opening Ceremony](assets/images/SancheongExpo.jpeg){: style="height:200px;width:200px"}
 ![Idol Radio: Live in Seoul](assets/images/idolradio.jpg){: style="height:200px;width:200px"}
 ![2023 Wonder Woman Festival](assets/images/WW.jpg){: style="height:200px;width:200px"}
 
