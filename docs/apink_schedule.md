@@ -4,13 +4,15 @@
 
 !!! abstract "Apink members' YouTube upload schedule - Please sub to the channels"
 
-    [Bomi](https://www.youtube.com/@bbombbombbom): Saturdays at 11AM KST
+    [Chorong](https://www.youtube.com/@wearebrico): No set schedule.
 
-    [Eunji](https://www.youtube.com/@eunji3116): No set schedule
+    [Bomi](https://www.youtube.com/@bbombbombbom): Saturdays at 11AM KST.
+
+    [Eunji](https://www.youtube.com/@eunji3116): No set schedule.
 
     [Namjoo](https://www.youtube.com/@kimnamjoo_official): No set schedule at the moment.
 
-    [Hayoung](https://www.youtube.com/@ohhabbang): on break
+    [Hayoung](https://www.youtube.com/@ohhabbang): on break.
 
 ## September
 
