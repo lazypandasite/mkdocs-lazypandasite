@@ -19,13 +19,10 @@
 ![LMAC MUSICFORALL FEST 2023](assets/images/LMCA.jpg){: style="height:200px;width:200px"}
 ![Sancheong World Traditional Medicine & Anti-Aging Expo Opening Ceremony](assets/images/SancheongExpo.jpeg){: style="height:200px;width:200px"}
 ![Idol Radio: Live in Seoul](assets/images/idolradio.jpg){: style="height:200px;width:200px"}
-![2023 Wonder Woman Festival](assets/images/WW.jpg){: style="height:200px;width:200px"}
+![2023 Youth Night Festival](assets/images/YouthNightFestival.jpeg){: style="height:200px;width:200px"}
 
 {{ read_csv('./data.csv') }}
 
-!!! info "Note about the Wonder Woman Festival"
-
-    The exact date (23rd, 24th or both) Eunji will preform at the festival is unknown.
 
 ## October
 
