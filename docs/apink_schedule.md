@@ -19,11 +19,11 @@
 ![LMAC MUSICFORALL FEST 2023](assets/images/LMCA.jpg){: style="height:200px;width:200px"}
 ![Sancheong World Traditional Medicine & Anti-Aging Expo Opening Ceremony](assets/images/SancheongExpo.jpeg){: style="height:200px;width:200px"}
 ![Idol Radio: Live in Seoul](assets/images/idolradio.jpg){: style="height:200px;width:200px"}
-![2023 Youth Night Festival](assets/images/YouthNightFestival_Eunji.jpeg){: style="height:200px;width:200px"}
+![2023 Youth Night Festival](assets/images/YouthNightFestival_Eunji.jpg){: style="height:200px;width:200px"}
 
 {{ read_csv('./data.csv') }}
 
-
+<!-- TODO add not about the online ticket for Idol Radio live -->
 ## October
 
 ![Travelog Encore Concert Hong Kong](assets/images/Travelog_enore_HK.jpg){: style="height:200px;width:200px"}
