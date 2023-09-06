@@ -19,7 +19,7 @@
 ![LMAC MUSICFORALL FEST 2023](assets/images/LMCA.jpg){: style="height:200px;width:200px"}
 ![Sancheong World Traditional Medicine & Anti-Aging Expo Opening Ceremony](assets/images/SancheongExpo.jpeg){: style="height:200px;width:200px"}
 ![Idol Radio: Live in Seoul](assets/images/idolradio.jpg){: style="height:200px;width:200px"}
-![2023 Youth Night Festival](assets/images/YouthNightFestival.jpeg){: style="height:200px;width:200px"}
+![2023 Youth Night Festival](assets/images/YouthNightFestival_Eunji.jpeg){: style="height:200px;width:200px"}
 
 {{ read_csv('./data.csv') }}
 
