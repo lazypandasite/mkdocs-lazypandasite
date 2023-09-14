@@ -19,8 +19,10 @@
 ![LMAC MUSICFORALL FEST 2023](assets/images/LMCA.jpg){: style="height:200px;width:200px"}
 ![Bellygom TV Livestream](assets/images/bellygom_tv.jpeg){: style="height:200px;width:200px"}
 ![Sancheong World Traditional Medicine & Anti-Aging Expo Opening Ceremony](assets/images/SancheongExpo.jpeg){: style="height:200px;width:200px"}
+![Ansan University Festival](assets/images/Ansan_Uni_Festival.jpg){: style="height:200px;width:200px"}
 ![Idol Radio: Live in Seoul](assets/images/idolradio.jpg){: style="height:200px;width:200px"}
 ![2023 Youth Night Festival](assets/images/YouthNightFestival_Eunji.jpg){: style="height:200px;width:200px"}
+![Eunji on 한블리 (한문철의 블랙박스 리뷰)](assets/images/Eunji_2023-09-28.webp){: style="height:200px;width:200px"}
 
 {{ read_csv('./data.csv') }}
 
