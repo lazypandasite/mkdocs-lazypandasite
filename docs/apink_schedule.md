@@ -31,6 +31,7 @@
 !!! tip "IDOL RADIO: Live in Seoul online tickets"
 
     Online tickets are available as well as special photocards for the artist of you choice. _Shipping charges will be added to the ticket price_. Buy your ticket [here](https://moment.bigc.im/idolradio/clubs/XQ7RVN3KWP?currency=usd&oc=usd)
+  
 ## October
 
 ![Travelog Encore Concert Hong Kong](assets/images/Travelog_enore_HK.jpg){: style="height:200px;width:200px"}
