@@ -19,10 +19,12 @@
 ![LMAC MUSICFORALL FEST 2023](assets/images/LMCA.jpg){: style="height:200px;width:200px"}
 ![Bellygom TV Livestream](assets/images/bellygom_tv.jpeg){: style="height:200px;width:200px"}
 ![Sancheong World Traditional Medicine & Anti-Aging Expo Opening Ceremony](assets/images/SancheongExpo.jpeg){: style="height:200px;width:200px"}
+![진로드림 페스티벌 2023](assets/images/sept20_apink.jpeg){: style="height:200px;width:200px"}
 ![Ansan University Festival](assets/images/Ansan_Uni_Festival.jpg){: style="height:200px;width:200px"}
-![Idol Radio: Live in Seoul](assets/images/idolradio.jpg){: style="height:200px;width:200px"}
+![Idol Radio: Live in Seoul](assets/images/idol_radio.jpeg){: style="height:200px;width:200px"}
 ![2023 Youth Night Festival](assets/images/YouthNightFestival_Eunji.jpg){: style="height:200px;width:200px"}
 ![Eunji on 한블리 (한문철의 블랙박스 리뷰)](assets/images/Eunji_2023-09-28.webp){: style="height:200px;width:200px"}
+![2023 Great Baekje Festival](assets/images/apink-logo.webp){: style="height:200px;width:200px"}
 
 {{ read_csv('./data.csv') }}
 
@@ -33,5 +35,6 @@
 
 ![Travelog Encore Concert Hong Kong](assets/images/Travelog_enore_HK.jpg){: style="height:200px;width:200px"}
 ![Travelog Encore Concert Taipei](assets/images/Travelog_encore_Taipei.jpeg){: style="height:200px;width:200px"}
+![제3회 광양 K-POP 페스티벌](assets/images/kpop_festival.jpg){: style="height:200px;width:200px"}
 
 {{ read_csv('./data_oct.csv') }}
