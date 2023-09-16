@@ -24,7 +24,7 @@
 ![Idol Radio: Live in Seoul](assets/images/idol_radio.jpeg){: style="height:200px;width:200px"}
 ![2023 Youth Night Festival](assets/images/YouthNightFestival_Eunji.jpg){: style="height:200px;width:200px"}
 ![Eunji on 한블리 (한문철의 블랙박스 리뷰)](assets/images/Eunji_2023-09-28.webp){: style="height:200px;width:200px"}
-![2023 Great Baekje Festival](assets/images/apink-logo.webp){: style="height:200px;width:200px"}
+![2023 Great Baekje Festival](assets/images/4pink.webp){: style="height:200px;width:200px"}
 
 {{ read_csv('./data.csv') }}
 
