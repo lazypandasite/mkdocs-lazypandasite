@@ -31,11 +31,10 @@
 
     Online tickets are available as well as special photocards for the artist of you choice. _Shipping charges will be added to the ticket price_. Buy your ticket [here](https://moment.bigc.im/idolradio/clubs/XQ7RVN3KWP?currency=usd&oc=usd)
 
-!!! failure inline "Cancelled Schedule"
+??? failure annotate "Cancelled Schedule"
 
     Unfortunately the Youth Night Festival Eunji was going to participate in on September the 24th has been cancelled.
-
-![2023 Youth Night Festival](assets/images/event_images/YouthNightFestival_Eunji.jpg){: style="height:175px;width:175px"}
+    ![2023 Youth Night Festival](assets/images/event_images/YouthNightFestival_Eunji.jpg){: style="height:150px;width:150px" align=left}
 
 ## October
 
