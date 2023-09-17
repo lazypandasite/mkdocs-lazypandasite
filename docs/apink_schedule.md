@@ -33,7 +33,7 @@
 
 ??? failure annotate "Cancelled Schedule"
 
-    Unfortunately the Youth Night Festival Eunji was going to participate in on September the 24th has been cancelled.
+    Unfortunately, the Youth Night Festival Eunji was going to participate in on September the 24th has been cancelled.
     ![2023 Youth Night Festival](assets/images/event_images/YouthNightFestival_Eunji.jpg){: style="height:150px;width:150px" align=left}
 
 ## October
