@@ -21,7 +21,7 @@
 ![Sancheong World Traditional Medicine & Anti-Aging Expo Opening Ceremony](assets/images/event_images/SancheongExpo.jpeg){: style="height:200px;width:200px"}
 ![진로드림 페스티벌 2023](assets/images/event_images/sept20_apink.jpeg){: style="height:200px;width:200px"}
 ![Ansan University Festival](assets/images/event_images/Ansan_Uni_Festival.jpg){: style="height:200px;width:200px"}
-![Idol Radio: Live in Seoul](assets/images/event_images/idol_radio.jpeg){: style="height:200px;width:200px"}
+![Idol Radio: Live in Seoul](assets/images/event_images/Idol_Radio_Apink.webp){: style="height:200px;width:200px"}
 ![Eunji on 한블리 (한문철의 블랙박스 리뷰)](assets/images/event_images/Eunji_2023-09-28.webp){: style="height:200px;width:200px"}
 ![2023 Great Baekje Festival](assets/images/4pink.webp){: style="height:200px;width:200px"}
 
