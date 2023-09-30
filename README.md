@@ -1,1 +1,3 @@
-# mkdocs-lazypandasite
+
+# The Lazy Panda Site Project 🐼
+
