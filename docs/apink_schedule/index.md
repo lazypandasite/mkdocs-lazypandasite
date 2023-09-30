@@ -20,4 +20,4 @@
 ![Travelog Encore Concert Taipei](assets/../../assets/images/event_images/Travelog_encore_Taipei.jpeg){: style="height:200px;width:200px"}
 ![제3회 광양 K-POP 페스티벌](assets/../../assets/images/event_images/kpop_festival.jpg){: style="height:200px;width:200px"}
 
-{{ read_csv('./next_data.csv') }}
+{{ read_csv('./current_data.csv') }}
