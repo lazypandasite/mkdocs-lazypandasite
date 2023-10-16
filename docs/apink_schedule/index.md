@@ -17,8 +17,8 @@
 ## October
 
 ![Travelog Encore Concert Hong Kong](assets/images/../../../assets/images/event_images/Travelog_enore_HK.jpg){: style="height:200px;width:200px"}
-![Travelog Encore Concert Taipei](assets/../../assets/images/event_images/Travelog_encore_Taipei.jpeg){: style="height:200px;width:200px"}
 ![2023 clx 행복페스타](assets/../../assets/images/4pink.webp){: style="height:200px;width:200px"}
+![Travelog Encore Concert Taipei](assets/../../assets/images/event_images/Travelog_encore_Taipei.jpeg){: style="height:200px;width:200px"}
 ![제3회 광양 K-POP 페스티벌](assets/../../assets/images/event_images/kpop_festival.jpg){: style="height:200px;width:200px"}
 ![Bokjeong Festival at Dong Seoul University](../assets/images/event_images/dong_seoul_uni_4pink.jpg){: style="height:200px;width:200px"}
 
