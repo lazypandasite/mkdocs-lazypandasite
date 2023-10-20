@@ -23,3 +23,9 @@
 ![Bokjeong Festival at Dong Seoul University](../assets/images/event_images/dong_seoul_uni_4pink.jpg){: style="height:200px;width:200px"}
 
 {{ read_csv('./current_data.csv') }}
+
+## November
+
+![On the K:360 Special 1st Anniversary](../assets/images/event_images/k360.jpeg){: style="height:200px;width:200px"}
+
+{{ read_csv('./next_data.csv') }}
