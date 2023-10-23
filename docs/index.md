@@ -13,7 +13,7 @@ Welcome to the Lazy Panda site 🐼
 
 ## Apink Members' Personal Accounts
 
-_not complete yet_
+>not complete yet
 
 === "Chorong"
 
