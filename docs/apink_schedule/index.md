@@ -14,19 +14,15 @@
 
     [Hayoung](https://www.youtube.com/@ohhabbang): on break.
 
-## October
+## Npvember
 
-![Travelog Encore Concert Hong Kong](assets/images/../../../assets/images/event_images/Travelog_enore_HK.jpg){: style="height:200px;width:200px"}
-![2023 clx 행복페스타](assets/../../assets/images/4pink.webp){: style="height:200px;width:200px"}
-![Travelog Encore Concert Taipei](assets/../../assets/images/event_images/Travelog_encore_Taipei.jpeg){: style="height:200px;width:200px"}
-![제3회 광양 K-POP 페스티벌](assets/../../assets/images/event_images/kpop_festival.jpg){: style="height:200px;width:200px"}
-![SSG Landers 2023 KBO Semi-Playoff Game 1st Pitch](../assets/images/event_images/baseball_namjoo.jpg){: style="height:200px;width:200px"}
-![Bokjeong Festival at Dong Seoul University](../assets/images/event_images/dong_seoul_uni_4pink.jpg){: style="height:200px;width:200px"}
+![On the K:360 Special 1st Anniversary](../assets/images/event_images/k360.jpeg){: style="height:200px;width:200px"}
+![Chorong & Hayoung on Weibo LIve](../assets/images/event_images/Chorong_Hayoung_WeiboLive.jpg){: style="height:200px;width:200px"}
 
 {{ read_csv('./current_data.csv') }}
 
-## November
+## December
 
-![On the K:360 Special 1st Anniversary](../assets/images/event_images/k360.jpeg){: style="height:200px;width:200px"}
+![Apink Pink Christmas](assets/../../assets/images/event_images/Apink_Pink_Christmas.jpeg){: style="height:200px;width:200px"}
 
 {{ read_csv('./next_data.csv') }}
