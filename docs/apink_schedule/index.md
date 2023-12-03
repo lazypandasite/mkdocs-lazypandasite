@@ -14,15 +14,10 @@
 
     [Hayoung](https://www.youtube.com/@ohhabbang): on break.
 
-## Npvember
+## December
 
-![On the K:360 Special 1st Anniversary](../assets/images/event_images/k360.jpeg){: style="height:200px;width:200px"}
-![Chorong & Hayoung on Weibo LIve](../assets/images/event_images/Chorong_Hayoung_WeiboLive.jpg){: style="height:200px;width:200px"}
+![Apink 'Pink Christmas' Song](assets/../../assets/images/event_images/Apink_Pink_Christmas.jpeg){: style="height:200px;width:200px"}
 
 {{ read_csv('./current_data.csv') }}
 
-## December
-
-![Apink Pink Christmas](assets/../../assets/images/event_images/Apink_Pink_Christmas.jpeg){: style="height:200px;width:200px"}
-
-{{ read_csv('./next_data.csv') }}
+<!--{{ read_csv('./next_data.csv') }} -->
