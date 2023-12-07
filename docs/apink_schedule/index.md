@@ -16,7 +16,7 @@
 
 ## December
 
-![Apink 'Pink Christmas' Song](assets/../../assets/images/event_images/Apink_Pink_Christmas.jpeg){: style="height:200px;width:200px"}
+![Apink 'Pink Christmas' Song](<../assets/images/event_images/Apink_Pink Christmas (1).jpeg>){: style="height:200px;width:200px"}
 
 {{ read_csv('./current_data.csv') }}
 
