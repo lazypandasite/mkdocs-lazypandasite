@@ -3,6 +3,7 @@
 Welcome to the Lazy Panda site 🐼
 
 [Check out the Apink Schedule](apink_schedule/index.md){ .md-button }
+[Reminders to vote](../vote.md){ .md-button }
 
 ## Apink Official Accounts
 
