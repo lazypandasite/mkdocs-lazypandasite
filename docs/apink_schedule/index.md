@@ -14,12 +14,15 @@
 
     [Hayoung](https://www.youtube.com/@ohhabbang): on break.
 
-## December
 
-![Apink 'Pink Christmas' Song](<../assets/images/event_images/Apink_Pink Christmas (1).jpeg>){: style="height:200px;width:200px"}
-![Bomi Youtube Live (channel:@bbombbombbom)](../assets/images/event_images/bbom2live.jpeg){: style="height:200px;width:200px"}
-![SeoulCon X WORLD K-POP FESTIVAL - COUNTDOWN](<../assets/images/event_images/4pink_New Year.png>){: style="height:200px;width:200px"}
+## January
 
-{{ read_csv('./current_data.csv') }}
+!!! info
+
+    No schedule yet
+
+<!--{: style="height:200px;width:200px"}-->
+
+<!--{{ read_csv('./current_data.csv') }}-->
 
 <!--{{ read_csv('./next_data.csv') }} -->
