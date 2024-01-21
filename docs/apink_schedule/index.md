@@ -17,12 +17,8 @@
 
 ## January
 
-!!! info
-
-    No schedule yet
-
 <!--{: style="height:200px;width:200px"}-->
 
-<!--{{ read_csv('./current_data.csv') }}-->
+{{ read_csv('./current_data.csv') }}
 
 <!--{{ read_csv('./next_data.csv') }} -->

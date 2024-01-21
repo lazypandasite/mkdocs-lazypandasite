@@ -9,7 +9,8 @@ Welcome to the Lazy Panda site 🐼
 | Follow :material-arrow-down:                                               |                                                                                                  |                                                                                                    |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
 | [:fontawesome-brands-twitter: @Apink_2011](https://twitter.com/Apink_2011) | [:fontawesome-brands-youtube: @officialapink](https://www.youtube.com/@officialapink)            | [:fontawesome-brands-instagram: official.apink2011](https://www.instagram.com/official.apink2011/) |
-| [Apink Weverse](https://weverse.io/apink)                                  | [:fontawesome-brands-facebook: Official.Apink2011](https://www.facebook.com/Official.Apink2011/) | [:fontawesome-brands-tiktok: @official_apink2011](https://www.tiktok.com/@official_apink2011)      |
+| ![Weverse logo](https://cdn-v2pstatic.weverse.io/wev_web_fe/assets/1.0.0/icons/favicon.ico){: style="height:14.4px;width:14.4px"} [Apink Weverse](https://weverse.io/apink)                                  | [:fontawesome-brands-facebook: Official.Apink2011](https://www.facebook.com/Official.Apink2011/) | [:fontawesome-brands-tiktok: @official_apink2011](https://www.tiktok.com/@official_apink2011)      |
+| [:simple-sinaweibo: @Apink_official](https://weibo.com/u/5465314977) | | |
 
 ## Apink Members' Personal Accounts
 
