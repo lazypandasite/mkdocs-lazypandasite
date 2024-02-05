@@ -14,13 +14,10 @@
 
     [Hayoung](https://www.youtube.com/@ohhabbang): on break.
 
-
 ## February
 
-> No schedule yet
-<!--{: style="height:200px;width:200px"}-->
+![Bomi Presenting at the Hanteo Music Awards](<../assets/images/event_images/Bomi - HMA.jpeg>){: style="height:200px;width:200px"}
 
-
-<!-- {{ read_csv('./current_data.csv') }} -->
+{{ read_csv('./current_data.csv') }}
 
 <!--{{ read_csv('./next_data.csv') }} -->
