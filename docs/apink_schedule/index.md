@@ -17,6 +17,7 @@
 ## February
 
 ![Bomi Presenting at the Hanteo Music Awards](<../assets/images/event_images/Bomi - HMA.jpeg>){: style="height:200px;width:200px"}
+![Reply 1997 - Special Program for 20th K-Wave Anniversay Celebration](../assets/images/event_images/Reply1997_Eunji.jpg){: style="height:200px;width:200px"}
 
 {{ read_csv('./current_data.csv') }}
 
