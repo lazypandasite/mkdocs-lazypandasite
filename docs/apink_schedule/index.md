@@ -26,4 +26,7 @@
 
 ## March & April
 
+![Bomi plays Secretary Na in Queen of Tears](../assets/images/event_images/Bomi_profile.jpg){: style="height:300px;width:200px"}
+![Kim Namjoo 2nd Single 'BAD'](../assets/images/event_images/Namjoo_BAD.jpeg){: style="height:300px;width:200px"}
+
 {{ read_csv('./next_data.csv') }}
