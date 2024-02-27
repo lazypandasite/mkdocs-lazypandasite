@@ -20,7 +20,7 @@
 ![Bomi Presenting at the Hanteo Music Awards](<../assets/images/event_images/Bomi - HMA.jpeg>){: style="height:200px;width:200px"}
 ![Reply 1997 - Special Program for 20th K-Wave Anniversay Celebration](../assets/images/event_images/Reply1997_Eunji.jpg){: style="height:200px;width:200px"}
 ![Hayoung & possibly another Apink member on Mobidic's Youtube Channel](../assets/images/event_images/Hayoung_mobidic.jpeg){: style="height:200px;width:200px"}
-![Chorong & Namjoo on Good Neighbors TV](../assets/images/event_images/Chorong_Namjoo.jpeg){: style="height:200px;width:200px"}
+![Chorong & Hayoung on Good Neighbors TV](../assets/images/event_images/Chorong_Hayoung.jpeg){: style="height:200px;width:200px"}
 
 {{ read_csv('./current_data.csv') }}
 
