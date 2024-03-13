@@ -18,12 +18,10 @@
 
 ![Bomi plays Secretary Na in Queen of Tears](../assets/images/event_images/Bomi_profile.jpg){: style="height:300px;width:200px"}
 ![Kim Namjoo 2nd Single 'BAD'](../assets/images/event_images/Namjoo_BAD.jpeg){: style="height:300px;width:200px"}
+![Namjoo and Hayoung on Mobidic's Youtube Channel](../assets/images/event_images/Namjoo_Hayoung.png)
 
 {{ read_csv('./current_data.csv') }}
 
 ## April
-
-<!-- TODO Add image for the Namjoo and Hayoung TV show Schedule -->
-
 
 {{ read_csv('./next_data.csv') }}
