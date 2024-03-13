@@ -16,12 +16,14 @@
 
 ## March
 
-![Bomi plays Secretary Na in Queen of Tears](../assets/images/event_images/Bomi_profile.jpg){: style="height:300px;width:200px"}
-![Kim Namjoo 2nd Single 'BAD'](../assets/images/event_images/Namjoo_BAD.jpeg){: style="height:300px;width:200px"}
+![Bomi plays Secretary Na in Queen of Tears](../assets/images/event_images/Bomi_profile.jpg){: style="height:300px"}
+![Kim Namjoo 2nd Single 'BAD'](../assets/images/event_images/Namjoo_BAD.jpeg){: style="height:300px"}
 ![Namjoo and Hayoung on Mobidic's Youtube Channel](../assets/images/event_images/Namjoo_Hayoung.png)
 
 {{ read_csv('./current_data.csv') }}
 
 ## April
+![Eunji as a producer on Girls on Fire (Audition Show)](../assets/images/event_images/Eunji_Profile.jpeg){: style="height:300px"}
+![Bomi plays Secretary Na in Queen of Tears](../assets/images/event_images/Bomi_profile.jpg){: style="height:300px"}
 
 {{ read_csv('./next_data.csv') }}
