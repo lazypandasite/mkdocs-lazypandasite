@@ -18,6 +18,7 @@
 
 ![Bomi plays Secretary Na in Queen of Tears](../assets/images/event_images/Bomi_profile.jpg){: style="height:300px"}
 ![Kim Namjoo 2nd Single 'BAD'](../assets/images/event_images/Namjoo_BAD.jpeg){: style="height:300px"}
+![Namjoo guesting on KBS Cool FM Volume Up](<../assets/images/event_images/Namjoo Volume Up.jpeg>){: style="height:300px"}
 ![Namjoo and Hayoung on Mobidic's Youtube Channel](../assets/images/event_images/Namjoo_Hayoung.png)
 
 {{ read_csv('./current_data.csv') }}
