@@ -23,12 +23,15 @@
 ![Namjoo and Hayoung on Mobidic's Youtube Channel](../assets/images/event_images/Namjoo_Hayoung.png)
 ![Namjoo on M Countdown](../assets/images/event_images/M_Countdown_2024_Logo.png){: style="height:300px"}
 ![Namjoo on Music Bank](../assets/images/event_images/Music_Bank_(TV_series).png)
+![It's Live Kim Namjoo BAD](../assets/images/event_images/itslive_Namjoo.jpeg){: style="height:300px"}
+![Namjoo on Inkigayo](../assets/images/event_images/Inkigayo.png){: style="height:300px"}
 
 {{ read_csv('./current_data.csv') }}
 
 ## April
 
 ![Bomi plays Secretary Na in Queen of Tears](../assets/images/event_images/Bomi_profile.jpg){: style="height:300px"}
+![BAD JOO's Kim Namjoo Fanmeeting](../assets/images/event_images/BadJoo.jpeg){: style="height:300px"}
 ![Eunji as a producer on Girls on Fire (Audition Show)](../assets/images/event_images/Eunji_Profile.jpeg){: style="height:300px"}
 ![Apink Fan Song on Apink's Anniversary](../assets/images/event_images/apink-logo.webp){: style="height:300px"}
 
