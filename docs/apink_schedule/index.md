@@ -25,6 +25,7 @@
 ![Namjoo on Music Bank](../assets/images/event_images/Music_Bank_(TV_series).png)
 ![It's Live Kim Namjoo BAD](../assets/images/event_images/itslive_Namjoo.jpeg){: style="height:300px"}
 ![Namjoo on Inkigayo](../assets/images/event_images/Inkigayo.png){: style="height:300px"}
+![Namjoo on Show! Music Core](../assets/images/event_images/Show!_Music_Core.png)
 
 {{ read_csv('./current_data.csv') }}
 
