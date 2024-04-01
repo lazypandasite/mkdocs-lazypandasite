@@ -16,6 +16,7 @@
 
 ## April
 
+![Chorong,Bomi,Namjoo & Hayoung at 2024 Young Festival](<../assets/images/event_images/young festival.jpeg>){: style="height:300px"}
 ![Bomi plays Secretary Na in Queen of Tears](../assets/images/event_images/Bomi_profile.jpg){: style="height:300px"}
 ![BAD JOO's Kim Namjoo Fanmeeting](../assets/images/event_images/BadJoo.jpeg){: style="height:300px"}
 ![Eunji as a producer on Girls on Fire (Audition Show)](../assets/images/event_images/Eunji_Profile.jpeg){: style="height:300px"}
