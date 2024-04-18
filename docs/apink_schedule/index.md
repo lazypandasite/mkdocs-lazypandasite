@@ -22,6 +22,7 @@
 ![BAD JOO's Kim Namjoo Fanmeeting](../assets/images/event_images/BadJoo.jpeg){: style="height:300px"}
 ![Eunji as a producer on Girls on Fire (Audition Show)](../assets/images/event_images/Eunji_Profile.jpeg){: style="height:300px"}
 ![Apink Fan Song on Apink's Anniversary](../assets/images/event_images/apink-logo.webp){: style="height:300px"}
+![Apink on knowing Brothers](<../assets/images/event_images/Apink Knowing Bros.jpeg>){: style="height:300px"}
 
 {{ read_csv('./current_data.csv') }}
 
