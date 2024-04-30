@@ -14,16 +14,18 @@
 
     [Hayoung](https://www.youtube.com/@ohhabbang): on break.
 
-## April
+## May
 
-![Chorong,Bomi,Namjoo & Hayoung at 2024 Young Festival](<../assets/images/event_images/young festival.jpeg>){: style="height:300px"}
-![Bomi plays Secretary Na in Queen of Tears](../assets/images/event_images/Bomi_profile.jpg){: style="height:300px"}
-![Hayoung on 쿠팡플레이 스포츠 쿠플픽](../assets/images/event_images/Hayoung_football.jpg){: style="height:300px"}
-![BAD JOO's Kim Namjoo Fanmeeting](../assets/images/event_images/BadJoo.jpeg){: style="height:300px"}
-![Eunji as a producer on Girls on Fire (Audition Show)](../assets/images/event_images/Eunji_Profile.jpeg){: style="height:300px"}
-![Apink Fan Song on Apink's Anniversary](../assets/images/event_images/apink-logo.webp){: style="height:300px"}
-![Apink on knowing Brothers](<../assets/images/event_images/Apink Knowing Bros.jpeg>){: style="height:300px"}
+![BAD JOO's Kim Namjoo Fan Meeting in Osaka](<../assets/images/event_images/Bad Joo Osaka.jpeg>){: style="height:300px"}
+![Producer Eunji on JTBC's Girls on Fire](../assets/images/event_images/Eunji_Profile.jpeg){: style="height:300px"}
+![Jeong Eunji Fan Meeting "Eunji's Bookstore" in Seoul](<../assets/images/event_images/Eunjis Bookstore.jpeg>){: style="height:300px"}
 
 {{ read_csv('./current_data.csv') }}
 
-<!--{{ read_csv('./next_data.csv') }}-->
+## June & July
+
+![Jeong Eunji Fan Meeting "Eunji's Bookstore" in Taipei](<../assets/images/event_images/Eunjis Bookstore Taipei.jpeg>){: style="height:300px"}
+![Jeong Eunji Fan Meeting "Eunji's Bookstore" in Hong Kong](<../assets/images/event_images/Eunjis Bookstore Hong Kong.jpeg>){: style="height:300px"}
+![Eunji at the Blue Spring Youth Summer Night Festival](<../assets/images/event_images/Festival Eunji.jpeg>){: style="height:300px"}
+
+{{ read_csv('./next_data.csv') }}
