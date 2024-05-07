@@ -18,6 +18,8 @@
 
 ![BAD JOO's Kim Namjoo Fan Meeting in Osaka](<../assets/images/event_images/Bad Joo Osaka.jpeg>){: style="height:300px"}
 ![Producer Eunji on JTBC's Girls on Fire](../assets/images/event_images/Eunji_Profile.jpeg){: style="height:300px"}
+![Chorong, Bomi, Namjoo & Hayoung @ Sunchon National University Festival](<../assets/images/event_images/4Pink Festival.jpeg>){: style="height:300px"}
+![Eunji @ 2024 Daedong Festival CLOVER station [Ticket to wish]](<../assets/images/event_images/Kyungsung Festival Eunji.jpeg>){: style="height:300px"}
 ![Jeong Eunji Fan Meeting "Eunji's Bookstore" in Seoul](<../assets/images/event_images/Eunjis Bookstore.jpeg>){: style="height:300px"}
 
 {{ read_csv('./current_data.csv') }}
