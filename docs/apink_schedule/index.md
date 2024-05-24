@@ -24,7 +24,7 @@
 
 {{ read_csv('./current_data.csv') }}
 
-## June & July
+## June, July & August
 
 ![Jeong Eunji Fan Meeting "Eunji's Bookstore" in Taipei](<../assets/images/event_images/Eunjis Bookstore Taipei.jpeg>){: style="height:300px"}
 ![Jeong Eunji Fan Meeting "Eunji's Bookstore" in Hong Kong](<../assets/images/event_images/Eunjis Bookstore Hong Kong.jpeg>){: style="height:300px"}
