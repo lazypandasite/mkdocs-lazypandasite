@@ -14,22 +14,18 @@
 
     [Hayoung](https://www.youtube.com/@ohhabbang): on break.
 
-## May
-
-![BAD JOO's Kim Namjoo Fan Meeting in Osaka](<../assets/images/event_images/Bad Joo Osaka.jpeg>){: style="height:300px"}
-![Producer Eunji on JTBC's Girls on Fire](../assets/images/event_images/Eunji_Profile.jpeg){: style="height:300px"}
-![Chorong, Bomi, Namjoo & Hayoung @ Sunchon National University Festival](<../assets/images/event_images/4Pink Festival.jpeg>){: style="height:300px"}
-![Eunji @ 2024 Daedong Festival CLOVER station [Ticket to wish]](<../assets/images/event_images/Kyungsung Festival Eunji.jpeg>){: style="height:300px"}
-![Jeong Eunji Fan Meeting "Eunji's Bookstore" in Seoul](<../assets/images/event_images/Eunjis Bookstore.jpeg>){: style="height:300px"}
-
-{{ read_csv('./current_data.csv') }}
-
-## June, July & August
+## June
 
 ![Bomi and Namjoo on Song Stealer](../assets/images/event_images/BnN.jpg){: style="height:300px"}
 ![Jeong Eunji Fan Meeting "Eunji's Bookstore" in Taipei](<../assets/images/event_images/Eunjis Bookstore Taipei.jpeg>){: style="height:300px"}
 ![Eunji's Drama Miss Night and Day](../assets/images/event_images/Miss_Night_and_Day.jpeg){: style="height:300px"}
 ![Jeong Eunji Fan Meeting "Eunji's Bookstore" in Hong Kong](<../assets/images/event_images/Eunjis Bookstore Hong Kong.jpeg>){: style="height:300px"}
-![Eunji at the Blue Spring Youth Summer Night Festival](<../assets/images/event_images/Festival Eunji.jpeg>){: style="height:300px"}
+
+{{ read_csv('./current_data.csv') }}
+
+## July & August
+
+![Eunji at The Blue Spring Youth Summer Night Festival](<../assets/images/event_images/Festival Eunji.jpeg>){: style="height:300px"}
+![Eunji at The Summer Art Festival "Breeze Night"](<../assets/images/event_images/Eunji Summer AArt Festival.jpg>){: style="height:300px"}
 
 {{ read_csv('./next_data.csv') }}
