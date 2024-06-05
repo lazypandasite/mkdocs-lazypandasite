@@ -18,6 +18,7 @@
 
 ![Bomi and Namjoo on Song Stealer](../assets/images/event_images/BnN.jpg){: style="height:300px"}
 ![Eunji on KBS CoolFM Gayo Plaza (Miss Night and Day Promotion)](<../assets/images/event_images/Eunji Gayo.jpg>){: style="height:300px"}
+![Bomi on Pick Me Trip in Bali](<../assets/images/event_images/Pick Me in Bali.jpg>){: style="height:300px"}
 ![Jeong Eunji Fan Meeting "Eunji's Bookstore" in Taipei](<../assets/images/event_images/Eunjis Bookstore Taipei.jpeg>){: style="height:300px"}
 ![Eunji's Drama Miss Night and Day](../assets/images/event_images/Miss_Night_and_Day.jpeg){: style="height:300px"}
 ![Jeong Eunji Fan Meeting "Eunji's Bookstore" in Hong Kong](<../assets/images/event_images/Eunjis Bookstore Hong Kong.jpeg>){: style="height:300px"}
