@@ -28,6 +28,7 @@
 
 ## July & August
 
+![Chorong's new single 모르시나요](<../assets/images/event_images/Chorong Solo.jpg>){: style="height:300px"}
 ![Eunji at The Blue Spring Youth Summer Night Festival](<../assets/images/event_images/Festival Eunji.jpeg>){: style="height:300px"}
 ![alt text](<../assets/images/event_images/Eunjis Bookstore Japan.jpeg>){: style="height:300px"}
 ![Eunji at The Summer Art Festival "Breeze Night"](<../assets/images/event_images/Eunji Summer AArt Festival.jpg>){: style="height:300px"}
