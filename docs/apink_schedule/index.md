@@ -30,7 +30,9 @@
 
 ![Chorong's new single 모르시나요](<../assets/images/event_images/Chorong Solo.jpg>){: style="height:300px"}
 ![Eunji at The Blue Spring Youth Summer Night Festival](<../assets/images/event_images/Festival Eunji.jpeg>){: style="height:300px"}
-![alt text](<../assets/images/event_images/Eunjis Bookstore Japan.jpeg>){: style="height:300px"}
+![Jeong Eunji Fan Meeting "Eunji's Bookstore" in Japan](<../assets/images/event_images/Eunjis Bookstore Japan.jpeg>){: style="height:300px"}
+![Hayoung's Birthday 💛](<../assets/images/event_images/Hayoung Profile.jpg>){: style="height:300px"}
+![Chorong, Bomi, Namjoo & Hayoung @ UTO FEST in Yokohama](../assets/images/4pink.webp){: style="height:300px"}
 ![Eunji at The Summer Art Festival "Breeze Night"](<../assets/images/event_images/Eunji Summer AArt Festival.jpg>){: style="height:300px"}
 
 {{ read_csv('./next_data.csv') }}
