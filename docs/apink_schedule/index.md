@@ -22,6 +22,7 @@
 ![Hayoung on Running Man](<../assets/images/event_images/Hayoung Profile.jpg>){: style="height:300px"}
 ![Jeong Eunji Fan Meeting "Eunji's Bookstore" in Taipei](<../assets/images/event_images/Eunjis Bookstore Taipei.jpeg>){: style="height:300px"}
 ![Eunji's Drama Miss Night and Day](../assets/images/event_images/Miss_Night_and_Day.jpeg){: style="height:300px"}
+![Chorong, Bomi, Namjoo & Hayoung @ Wanderlust Festival 2024](<../assets/images/event_images/4pink Festival.jpg>){: style="height:300px"}
 ![Jeong Eunji Fan Meeting "Eunji's Bookstore" in Hong Kong](<../assets/images/event_images/Eunjis Bookstore Hong Kong.jpeg>){: style="height:300px"}
 
 {{ read_csv('./current_data.csv') }}
