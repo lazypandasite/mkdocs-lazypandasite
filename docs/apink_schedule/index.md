@@ -14,26 +14,22 @@
 
     [Hayoung](https://www.youtube.com/@ohhabbang): on break.
 
-## June
+## July
 
-![Bomi and Namjoo on Song Stealer](../assets/images/event_images/BnN.jpg){: style="height:300px"}
-![Eunji on KBS CoolFM Gayo Plaza (Miss Night and Day Promotion)](<../assets/images/event_images/Eunji Gayo.jpg>){: style="height:300px"}
-![Bomi on Pick Me Trip in Bali](<../assets/images/event_images/Pick Me in Bali.jpg>){: style="height:300px"}
-![Hayoung on Running Man](<../assets/images/event_images/Hayoung Profile.jpg>){: style="height:300px"}
-![Jeong Eunji Fan Meeting "Eunji's Bookstore" in Taipei](<../assets/images/event_images/Eunjis Bookstore Taipei.jpeg>){: style="height:300px"}
+![Chorong's new single 모르시나요](<../assets/images/event_images/Chorong Solo.jpg>){: style="height:300px"}
+![Chorong, Bomi, Namjoo & Hayoung @ Club Cabi Pool Party](../assets/images/4pink.webp){: style="height:300px"}
+![Eunji at The Blue Spring Youth Summer Night Festival](<../assets/images/event_images/Festival Eunji.jpeg>){: style="height:300px"}
 ![Eunji's Drama Miss Night and Day](../assets/images/event_images/Miss_Night_and_Day.jpeg){: style="height:300px"}
-![Chorong, Bomi, Namjoo & Hayoung @ Wanderlust Festival 2024](<../assets/images/event_images/4pink Festival.jpg>){: style="height:300px"}
-![Jeong Eunji Fan Meeting "Eunji's Bookstore" in Hong Kong](<../assets/images/event_images/Eunjis Bookstore Hong Kong.jpeg>){: style="height:300px"}
+![Jeong Eunji Fan Meeting "Eunji's Bookstore" in Japan](<../assets/images/event_images/Eunjis Bookstore Japan.jpeg>){: style="height:300px"}
+![Hayoung's Birthday 💛](<../assets/images/event_images/Hayoung Profile.jpg>){: style="height:300px"}
+![Apink @ One Tone Concert](<../assets/images/event_images/One Tone.jpg>){: style="height:300px"}
+![Chorong, Bomi, Namjoo & Hayoung @ UTO FEST in Yokohama](../assets/images/4pink.webp){: style="height:300px"}
 
 {{ read_csv('./current_data.csv') }}
 
-## July & August
+## August
 
-![Chorong's new single 모르시나요](<../assets/images/event_images/Chorong Solo.jpg>){: style="height:300px"}
-![Eunji at The Blue Spring Youth Summer Night Festival](<../assets/images/event_images/Festival Eunji.jpeg>){: style="height:300px"}
-![Jeong Eunji Fan Meeting "Eunji's Bookstore" in Japan](<../assets/images/event_images/Eunjis Bookstore Japan.jpeg>){: style="height:300px"}
-![Hayoung's Birthday 💛](<../assets/images/event_images/Hayoung Profile.jpg>){: style="height:300px"}
-![Chorong, Bomi, Namjoo & Hayoung @ UTO FEST in Yokohama](../assets/images/4pink.webp){: style="height:300px"}
 ![Eunji at The Summer Art Festival "Breeze Night"](<../assets/images/event_images/Eunji Summer AArt Festival.jpg>){: style="height:300px"}
+![Eunji's Drama Miss Night and Day](../assets/images/event_images/Miss_Night_and_Day.jpeg){: style="height:300px"}
 
 {{ read_csv('./next_data.csv') }}
