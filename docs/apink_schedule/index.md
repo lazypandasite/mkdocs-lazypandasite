@@ -17,6 +17,7 @@
 ## July
 
 ![Chorong's new single 모르시나요](<../assets/images/event_images/Chorong Solo.jpg>){: style="height:300px"}
+![Chorong & Namjoo on MAKE MATE 1](<../assets/images/event_images/MAKE MATE 1.jpg>){: style="height:300px"}
 ![Chorong, Bomi, Namjoo & Hayoung @ Club Cabi Pool Party](../assets/images/4pink.webp){: style="height:300px"}
 ![Eunji at The Blue Spring Youth Summer Night Festival](<../assets/images/event_images/Festival Eunji.jpeg>){: style="height:300px"}
 ![Eunji's Drama Miss Night and Day](../assets/images/event_images/Miss_Night_and_Day.jpeg){: style="height:300px"}
