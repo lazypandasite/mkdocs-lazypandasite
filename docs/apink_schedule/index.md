@@ -1,4 +1,4 @@
-# Current Schedule
+# Upcoming Apink Scheduled Events & Information
 
 ## Recurring
 
