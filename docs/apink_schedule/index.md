@@ -32,6 +32,7 @@
 
 ## August
 
+![Namjoo on Kwon Eunbi's Young Street](../assets/images/event_images/NamjooYoungstreet.jpeg){: style="height:300px"}
 ![Eunji at The Summer Art Festival "Breeze Night"](<../assets/images/event_images/Eunji Summer AArt Festival.jpg>){: style="height:300px"}
 ![Eunji's Drama Miss Night and Day](../assets/images/event_images/Miss_Night_and_Day.jpeg){: style="height:300px"}
 
