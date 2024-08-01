@@ -14,26 +14,18 @@
 
     [Hayoung](https://www.youtube.com/@ohhabbang): on break.
 
-## July
-
-![Chorong's new single 모르시나요](<../assets/images/event_images/Chorong Solo.jpg>){: style="height:300px"}
-![Chorong & Namjoo on MAKE MATE 1](<../assets/images/event_images/MAKE MATE 1.jpg>){: style="height:300px"}
-![Namjoo & Hayoung on 필드마블](../assets/images/event_images/Hajoo.jpeg){: style="height:300px"}
-![Chorong, Bomi, Namjoo & Hayoung @ Club Cabi Pool Party](../assets/images/4pink.webp){: style="height:300px"}
-![Eunji at The Blue Spring Youth Summer Night Festival](<../assets/images/event_images/Festival Eunji.jpeg>){: style="height:300px"}
-![Eunji's Drama Miss Night and Day](../assets/images/event_images/Miss_Night_and_Day.jpeg){: style="height:300px"}
-![Jeong Eunji Fan Meeting "Eunji's Bookstore" in Japan](<../assets/images/event_images/Eunjis Bookstore Japan.jpeg>){: style="height:300px"}
-![Hayoung's Birthday 💛](<../assets/images/event_images/Hayoung Profile.jpg>){: style="height:300px"}
-![Apink @ One Tone Concert](<../assets/images/event_images/One Tone.jpg>){: style="height:300px"}
-![Apink @ 2024 Andong K-Pop Concert](../assets/images/Apink.jpeg){: style="height:300px"}
-![Chorong, Bomi, Namjoo & Hayoung @ UTO FEST in Yokohama](../assets/images/4pink.webp){: style="height:300px"}
-
-{{ read_csv('./current_data.csv') }}
-
 ## August
 
 ![Namjoo on Kwon Eunbi's Young Street](../assets/images/event_images/NamjooYoungstreet.jpeg){: style="height:300px"}
+![Chorong & Hayoung on 광구석1열](../assets/images/event_images/HaRong.jpeg)
+![Namjoo & Hayoung on 필드마블](../assets/images/event_images/Hajoo.jpeg)
 ![Eunji at The Summer Art Festival "Breeze Night"](<../assets/images/event_images/Eunji Summer AArt Festival.jpg>){: style="height:300px"}
 ![Eunji's Drama Miss Night and Day](../assets/images/event_images/Miss_Night_and_Day.jpeg){: style="height:300px"}
+
+{{ read_csv('./current_data.csv') }}
+
+## October
+
+![Apink @ 2024 영동대로 K-Pop Concert](../assets/images/Apink.jpeg){: style="height:300px"}
 
 {{ read_csv('./next_data.csv') }}
