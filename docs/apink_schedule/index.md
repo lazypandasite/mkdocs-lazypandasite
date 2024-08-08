@@ -21,6 +21,7 @@
 ![Namjoo & Hayoung on 필드마블](../assets/images/event_images/Hajoo.jpeg){: style="height:300px"}
 ![Eunji at The Summer Art Festival "Breeze Night"](<../assets/images/event_images/Eunji Summer AArt Festival.jpg>){: style="height:300px"}
 ![Eunji's Drama Miss Night and Day](../assets/images/event_images/Miss_Night_and_Day.jpeg){: style="height:300px"}
+![Special DJ Namjoo on 이숙영의 러브FM](<../assets/images/event_images/Namjoo Radio.jpeg>){: style="height:300px"}
 
 {{ read_csv('./current_data.csv') }}
 
