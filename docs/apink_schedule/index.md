@@ -25,7 +25,7 @@
 
 {{ read_csv('./current_data.csv') }}
 
-## October
+## September
 
 ![Apink @ 2024 영동대로 K-Pop Concert](../assets/images/Apink.jpeg){: style="height:300px"}
 
