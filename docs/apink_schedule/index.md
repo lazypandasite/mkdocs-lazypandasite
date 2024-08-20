@@ -30,7 +30,7 @@
 
 ## September
 
-![Chorong, Bomi, Namjoo & Hayoung @ The Duran Festival](../assets/images/4pink.webp){: style="height:300px"}
+![Chorong, Bomi, Namjoo & Hayoung @ Japan Trans Nations 2024 on the 1st & The Duran Festival on the 11th](../assets/images/4pink.webp){: style="height:300px"}
 ![Apink @ 2024 영동대로 K-Pop Concert](../assets/images/Apink.jpeg){: style="height:300px"}
 
 {{ read_csv('./next_data.csv') }}
