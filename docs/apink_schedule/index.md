@@ -19,7 +19,8 @@
 ![Chorong, Bomi, Namjoo & Hayoung @ Japan Trans Nations 2024 on the 1st & The Duran Festival on the 11th](../assets/images/4pink.webp){: style="height:300px"}
 ![Chorong, Bomi, Namjoo & Hayoung @ Jinju Health College Hangaram Festival](<../assets/images/4pink.webp>){: style="height:300px"}
 ![Bomi presenting @ Seoul International Drama Awards](../assets/images/Bomi.jpeg){: style="height:300px"}
-![Chorong, Bomi, Namjoo & Hayoung @ 2024 홍익 대동제 화양연화 Festival](../assets/images/4pink.webp){: style="height:300px"}
+![Chorong, Bomi, Namjoo & Hayoung @ 2024 홍익 대동제 화양연화 Festival](../assets/images/event_images/sept264pink.jpeg){: style="height:300px"}
+![Chorong, Bomi, Namjoo & Hayoung @ 2024 경희대학교 서울캠퍼스 가을 대동제](../assets/images/event_images/sept26.2-4pink.jpeg){: style="height:300px"}
 ![Chorong, Bomi, Namjoo & Hayoung @ Blooming Your Dreams 21st LG Dream Festival](../assets/images/4pink.webp){: style="height:300px"}
 ![Apink @ 2024 영동대로 K-Pop Concert](../assets/images/Apink.jpeg){: style="height:300px"}
 
