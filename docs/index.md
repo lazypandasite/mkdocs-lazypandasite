@@ -52,6 +52,7 @@ Welcome to the Lazy Panda site 🐼
     * [:fontawesome-brands-instagram: `@_ohbbang_`](https://www.instagram.com/_ohbbang_)
     * [:fontawesome-brands-x-twitter: @Apinkohy](https://twitter.com/Apinkohy)
     * [:fontawesome-brands-youtube: @ohhabbang](https://www.youtube.com/@ohhabbang)
+    * [:fontawesome-brands-tiktok: @_ohhayoung](https://www.tiktok.com/@_ohhayoung)
     * [Hayoung on Weverse](https://weverse.io/apink/profile/98317dd8e71256bcb54c5c3bc7cad4d6)
 
 Chorong, Bomi, Namjoo & Hayoung are on the **Fromm** paid private artist messaging app
